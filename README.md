@@ -1,1 +1,1 @@
-# internship_exam
+# hackathon
